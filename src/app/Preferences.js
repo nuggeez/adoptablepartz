@@ -168,7 +168,7 @@ export default function Preferences() {
           </View>
         </View>
 
-        {/* Personality Slider */}
+        {/* Pet Personality Slider */}
         <Text style={styles.optionText}>
           What type of personality do you prefer in a pet?
         </Text>
